@@ -1,0 +1,39 @@
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.exe.config
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.exe
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.pdb
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.Form1.resources
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.Properties.Resources.resources
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.exe
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.pdb
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\Npgsql.dll
+C:\Users\Povilas\Documents\Visual Studio 2015\Projects\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\Npgsql.xml
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.exe.config
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.exe
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.pdb
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.csprojResolveAssemblyReference.cache
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.Form1.resources
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.Properties.Resources.resources
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.csproj.GenerateResource.Cache
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.exe
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.pdb
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\mscorlib.dll
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\Npgsql.dll
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\Npgsql.xml
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\normidna.nlp
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\normnfc.nlp
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\normnfd.nlp
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\normnfkc.nlp
+U:\dbvs\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\normnfkd.nlp
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.exe.config
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.exe
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.pdb
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.exe
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\SchoolDataManagementSystem.pdb
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\Npgsql.dll
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\bin\Debug\Npgsql.xml
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.Form1.resources
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.Properties.Resources.resources
+C:\Users\Povilas\Documents\SchoolDataManagementSystem\SchoolDataManagementSystem\obj\Debug\SchoolDataManagementSystem.csproj.GenerateResource.Cache
